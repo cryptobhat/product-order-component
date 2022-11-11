@@ -1,0 +1,9 @@
+<div class="card__plan">
+  <img src="/images/icon-music.svg" alt="" class="card__icon">
+  <div class="card__plan_details">
+    <h4 class="card__plan_heading"> Annual Plan</h4>
+    <h4 class="card__price"> $59.99/year</h4>
+  </div>
+  <div class="card__change_plan">
+    <a href="#" class="plan-change"> Change</a>
+  </div>
